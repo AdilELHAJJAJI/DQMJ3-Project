@@ -1,2 +1,4 @@
 # DQMJ3-Project
-Hi , here is my project
+Hi , Here is the beginnig of my project.
+
+Enjoy
